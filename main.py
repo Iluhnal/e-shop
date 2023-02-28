@@ -1,0 +1,3 @@
+import autentication.InterfaceManager
+
+my_starting_interface = autentication.InterfaceManager.AuthenticationInterface()
